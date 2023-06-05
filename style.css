@@ -1,0 +1,29 @@
+/*Body section*/
+body {
+    background-color: #D3d3d3;
+    color: #101010;
+
+}
+/*Affects navigation section*/
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/*For meme image on Index*/
+#hahafunnymeme {
+    margin-right: 200px;
+}
+
+/*Affects Header Section*/
+header {
+    text-align: center;
+}
